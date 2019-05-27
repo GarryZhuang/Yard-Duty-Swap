@@ -1,0 +1,12 @@
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\bin\Debug\Yard_Duty_Swap.exe.config
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\bin\Debug\Yard_Duty_Swap.exe
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\bin\Debug\Yard_Duty_Swap.pdb
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\bin\Debug\Yard_Duty_Swap.xml
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.vbprojResolveAssemblyReference.cache
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.frmMain.resources
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.Resources.resources
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.vbproj.GenerateResource.cache
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.vbproj.CoreCompileInputs.cache
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.exe
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.xml
+\\file\students\ZHU0028\SACTest\Yard_Duty_Swap\Yard_Duty_Swap\obj\Debug\Yard_Duty_Swap.pdb
